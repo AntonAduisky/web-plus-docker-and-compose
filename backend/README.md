@@ -25,12 +25,12 @@ npm run start:dev
 - PS: В корневой директории находится файл _.env.example_, содержащий пример данного файла:
 
 ```code
-DATABASE_HOST=your_host
-DATABASE_PORT=your_port
-DATABASE_NAME=your_db_name
-DATABASE_USER=your_user
-DATABASE_PASSWORD=your_password
-SYNCHRONIZE=boolean
+POSTGRES_HOST=your_host
+POSTGRES_PORT=your_port
+POSTGRES_DB=your_db_name
+POSTGRES_USER=your_user
+POSTGRES_PASSWORD=your_password
+POSTGRES_SYNCHRONIZE=boolean
 
 JWT_SECRET=your_secret
 ```

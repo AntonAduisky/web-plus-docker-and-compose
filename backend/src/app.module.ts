@@ -26,7 +26,7 @@ import { Wishlist } from './wishlists/entities/wishlist.entity';
       password: configuration().database.password,
       database: configuration().database.database,
       entities: [User, Wish, Offer, Wishlist],
-      synchronize: configuration().database.synchronize,
+      synchronize: configuration().database.POSTGRES_SYNCHRONIZE,
     }),
     UsersModule,
     OffersModule,

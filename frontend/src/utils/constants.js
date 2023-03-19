@@ -1,4 +1,5 @@
-export const URL = 'http://localhost:3000';
+/* eslint-disable no-useless-escape */
+export const URL = 'https://api.kupipodaridai.nomoredomains.work';
 
 export const MINIMUM_PASSWORD_LENGTH = 3;
 export const MINIMUM_USERNAME_LENGTH = 3;
