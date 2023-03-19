@@ -1,3 +1,12 @@
-# Докеризация приложения
+# Докеризация приложения и деплой на сервер
 
-Перед тем как приступить к выполнению проектной работы разместите в репозитории исходный код фронтенд и бэкенд частей сервиса КупиПодариДай, реализованного вами ранее. 
+- IP адрес: 51.250.77.249
+- Frontend: [https://kupipodaridai.nomoredomains.work](https://kupipodaridai.nomoredomains.work)
+- Backend: [https:///api.kupipodaridai.nomoredomains.work](https:///api.kupipodaridai.nomoredomains.work)
+
+### Антон Адуйский
+
+- [Telegram](https://t.me/aduiskywalker)
+- [Instagram](https://www.instagram.com/aduiskywalker/)
+
+[Наверх](#top)
